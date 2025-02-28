@@ -14,7 +14,11 @@
 void  gov(){
 
 }
+  //проверить время
+  void pro.Rvram.(){
 
+    
+  }    
  //прочитать расписание
  void  provRasp(){
   
